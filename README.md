@@ -9,9 +9,9 @@ More likely to become Network Engineer.
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,html,css,js,php" /><br>
     <img src="https://skillicons.dev/icons?i=git,androidstudio,discordjs,sqlite,vscode,visualstudio" />
-</p
+</p>
 
-## Learning
+<h3>Learning</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,net,react,tailwind,wordpress" />
