@@ -11,7 +11,7 @@ More likely to become Network Engineer.
     <img src="https://skillicons.dev/icons?i=git,androidstudio,discordjs,sqlite,vscode,visualstudio" />
 </p>
 
-<h3>Learning</h3>
+<center><h3>Learning</h3></center>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,net,react,tailwind,wordpress" />
