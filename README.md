@@ -14,7 +14,7 @@ More likely to become Network Engineer.
 ## Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,net,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=cs,net,react,tailwind,wordpress" />
 </p>
 
 ## Tools
