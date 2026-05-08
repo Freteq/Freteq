@@ -5,7 +5,7 @@
 
 I'm a making sites and Discord bots using `Discord.js` or `Discord.py`<br>
 More likely to become Network Engineer.
-## languages
+## languages and environments
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,html,css,js,php" />
 </p
