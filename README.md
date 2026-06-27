@@ -4,6 +4,8 @@
   </h2>
 </div>
 
+> [Korean version](https://youtube.com)
+
 I'm a making sites and Discord bots using `Discord.js` or `Discord.py`<br>
 More likely to become Network Engineer.
 ## languages and environments
