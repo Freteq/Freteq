@@ -1,5 +1,5 @@
 <h2>
-  <img src="https://i.pinimg.com/originals/dd/11/81/dd1181184df19a4de0fa37b1e378885e.gif" width="20">
+  <img src="https://i.pinimg.com/originals/dd/11/81/dd1181184df19a4de0fa37b1e378885e.gif">
     :octocat: About Me
 </h2>
 
