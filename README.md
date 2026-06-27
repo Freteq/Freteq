@@ -1,5 +1,5 @@
 <h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif">
+  <center><img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"></center>
 </h2>
 
 I'm a making sites and Discord bots using `Discord.js` or `Discord.py`<br>
