@@ -9,6 +9,8 @@ I'm Daniel
 I do sites and Discord bots using `Discord.js` or `Discord.py`<br>
 More likely to become Network Engineer.
 
+Junior Web Developer with DataBase connections
+
 ##  Skills
 <div display="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px">
